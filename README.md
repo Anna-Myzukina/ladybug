@@ -24,3 +24,5 @@ samples, guidance on mobile development, and a full API reference.
 - [GDG London](https://gdg.community.dev/gdg-london/)
 - [Flutter Oxford](https://www.meetup.com/flutter-oxford/)
 - [Flutter Ahlen](https://www.meetup.com/flutter-ahlen/)
+
+  <img src="https://github.com/Anna-Myzukina/" height="400"> <img src="https://github.com/Anna-Myzukina/" height="400">
